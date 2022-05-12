@@ -1,2 +1,2 @@
 # Login_Flutter
-Tela de Login personalizada.
+Tela de Boas Vindas e Login.
